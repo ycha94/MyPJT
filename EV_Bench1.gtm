@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?><!--Internal Information used to aid in debugging customer issues:
 Build Version: 1.0000
-Time Stamp: 05/13/2024 15:22:02 399ms
+Time Stamp: 05/13/2024 15:25:33 832ms
 License Information: Licensed Feature: GTguiB
 Entitlement ID: KTYNZOWIAHUQBXUWKDOZHJCPLECHAY
 License Server: 192.8.200.100
@@ -11738,7 +11738,7 @@ Could not find thermal conductivity data for H2O2/H2O vapor, so data for thermal
             <item parameter="air_dp_Cd" text="0.33"/>
             <item parameter="air_dp_mult" text="0.46"/>
             <item parameter="air_ht_mult" text="6"/>
-            <item parameter="compr_rpm" text="7000"/>
+            <item parameter="compr_rpm" text="6500"/>
             <item parameter="fin_height" text="5.6"/>
             <item parameter="fin_pitch" text="=100/[FPDM]$$UNITS:FPDM=537"/>
             <item parameter="fin_thickness" text="0.07"/>
